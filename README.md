@@ -38,4 +38,4 @@ For this specific project, the majority of 42 cadets choose to use a sorting alg
 
 <p align="center">
     <img src=https://miro.medium.com/v2/resize:fit:720/format:webp/1*Di_5kShs_nEW4fx1XorC5A.jpeg/>
-</p># push_swap
+</p>

@@ -1,15 +1,3 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   instruction_checker_bonus.c                        :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: pdrago <pdrago@student.42.rio>             +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/01/11 21:05:43 by pdrago            #+#    #+#             */
-/*   Updated: 2024/01/11 21:05:43 by pdrago           ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
 #include "../../includes/checker_bonus.h"
 
 int	instruction_checker(char *instruction, t_stack *a, t_stack *b)
